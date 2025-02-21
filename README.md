@@ -1,5 +1,6 @@
 ﻿# ShoeStore
 ## Mô tả
+### Tuần 1
 - Website bán giày thể thao.
 - Xây dựng mô hình MVC.
 - Sử dụng Bootstrap, Jquery.
@@ -23,3 +24,14 @@
 
 ✅ Quản lý danh mục, thương hiệu, màu sắc
  - Thêm/sửa danh mục, thương hiệu, màu sắc.
+ 
+### Tuần 2
+- Xử lý đăng nhập
+- Xử lý đăng ký
+- Lấy lại mật khẩu
+- Validate thêm sản phẩm
+- Sửa database(Thêm cột, thay đổi kiểu dữ liệu trong bảng Shoes)
+- Thêm chúc năng tìm kiếm
+- Thêm chức năng sort theo danh mục, thương hiệu, màu sắc
+- Xử lý giỏ hàng
+- Xử lý đặt hàng, chi tiết đơn hàng
